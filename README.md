@@ -1,7 +1,7 @@
 # Java-Projects
 Project1:-
 {Introduction:
-  In this project, we'll create a simple game called rock paper scissors.
+  In this project, we'll create a simple game called rock paper & scissors game.
 
  Working of the Game:-
   If you don't know, here's how the game works:
